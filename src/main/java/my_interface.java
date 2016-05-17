@@ -109,33 +109,33 @@ public class my_interface {
 			{
 				if(u_wersja.equals(wersje.get(0)))
 				{
-					ret_hash.put("TYP1", count);
+					ret_hash.put("TYP2", count);
 				}
 				else
 				{
-					ret_hash.put("TYP2", count);
+					ret_hash.put("TYP1", count);
 				}
 			}
 			else if(u_model.equals(modele.get(1)))
 			{
 				if(u_wersja.equals(wersje.get(0)))
 				{
-					ret_hash.put("TYP3", count);
+					ret_hash.put("TYP4", count);
 				}
 				else
 				{
-					ret_hash.put("TYP4", count);
+					ret_hash.put("TYP3", count);
 				}
 			}
 			else
 			{
 				if(u_wersja.equals(wersje.get(0)))
 				{
-					ret_hash.put("TYP5", count);
+					ret_hash.put("TYP6", count);
 				}
 				else
 				{
-					ret_hash.put("TYP6", count);
+					ret_hash.put("TYP5", count);
 				}
 			}
 			
