@@ -1,7 +1,7 @@
 import java.util.Hashtable;
 
 
-public class Samochody2 {
+public class Samochody2mvn {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
